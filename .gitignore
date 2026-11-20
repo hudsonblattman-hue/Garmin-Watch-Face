@@ -1,0 +1,12 @@
+# Generated builds
+bin/
+gen/
+*.prg
+*.iq
+*.debug.xml
+
+# Private signing keys
+developer_key*
+*.der
+*.pem
+*.key
