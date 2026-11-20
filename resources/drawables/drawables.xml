@@ -1,0 +1,72 @@
+<drawables xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://developer.garmin.com/downloads/connect-iq/resources.xsd">
+    <bitmap id="LauncherIcon" filename="launcher_icon.svg" dithering="none" />
+    <bitmap id="SunsetSky" filename="sunset_sky.png" dithering="none"/>
+    <bitmap id="DaySky" filename="day_sky.png" dithering="none"/>
+    <bitmap id="DayOcean" filename="day_ocean.png" dithering="none"/>
+    <bitmap id="SunsetOcean" filename="sunset_ocean.png" dithering="none"/>
+    <bitmap id="NightOcean" filename="night_ocean.png" dithering="none"/>
+    <bitmap id="GroundMeadowSpringDay" filename="GroundMeadowSpringDay.png" dithering="none"/>
+    <bitmap id="GroundMeadowSpringTwilight" filename="GroundMeadowSpringTwilight.png" dithering="none"/>
+    <bitmap id="GroundMeadowSpringNight" filename="GroundMeadowSpringNight.png" dithering="none"/>
+    <bitmap id="GroundMeadowSummerDay" filename="GroundMeadowSummerDay.png" dithering="none"/>
+    <bitmap id="GroundMeadowSummerTwilight" filename="GroundMeadowSummerTwilight.png" dithering="none"/>
+    <bitmap id="GroundMeadowSummerNight" filename="GroundMeadowSummerNight.png" dithering="none"/>
+    <bitmap id="GroundMeadowFallDay" filename="GroundMeadowFallDay.png" dithering="none"/>
+    <bitmap id="GroundMeadowFallTwilight" filename="GroundMeadowFallTwilight.png" dithering="none"/>
+    <bitmap id="GroundMeadowFallNight" filename="GroundMeadowFallNight.png" dithering="none"/>
+    <bitmap id="GroundMeadowWinterDay" filename="GroundMeadowWinterDay.png" dithering="none"/>
+    <bitmap id="GroundMeadowWinterTwilight" filename="GroundMeadowWinterTwilight.png" dithering="none"/>
+    <bitmap id="GroundMeadowWinterNight" filename="GroundMeadowWinterNight.png" dithering="none"/>
+
+    <bitmap id="GroundForestSpringDay" filename="GroundForestSpringDay.png" dithering="none"/>
+    <bitmap id="GroundForestSpringTwilight" filename="GroundForestSpringTwilight.png" dithering="none"/>
+    <bitmap id="GroundForestSpringNight" filename="GroundForestSpringNight.png" dithering="none"/>
+    <bitmap id="GroundForestSummerDay" filename="GroundForestSummerDay.png" dithering="none"/>
+    <bitmap id="GroundForestSummerTwilight" filename="GroundForestSummerTwilight.png" dithering="none"/>
+    <bitmap id="GroundForestSummerNight" filename="GroundForestSummerNight.png" dithering="none"/>
+    <bitmap id="GroundForestFallDay" filename="GroundForestFallDay.png" dithering="none"/>
+    <bitmap id="GroundForestFallTwilight" filename="GroundForestFallTwilight.png" dithering="none"/>
+    <bitmap id="GroundForestFallNight" filename="GroundForestFallNight.png" dithering="none"/>
+    <bitmap id="GroundForestWinterDay" filename="GroundForestWinterDay.png" dithering="none"/>
+    <bitmap id="GroundForestWinterTwilight" filename="GroundForestWinterTwilight.png" dithering="none"/>
+    <bitmap id="GroundForestWinterNight" filename="GroundForestWinterNight.png" dithering="none"/>
+
+    <bitmap id="GroundCitySpringDay" filename="GroundCitySpringDay.png" dithering="none"/>
+    <bitmap id="GroundCitySpringTwilight" filename="GroundCitySpringTwilight.png" dithering="none"/>
+    <bitmap id="GroundCitySpringNight" filename="GroundCitySpringNight.png" dithering="none"/>
+    <bitmap id="GroundCitySummerDay" filename="GroundCitySummerDay.png" dithering="none"/>
+    <bitmap id="GroundCitySummerTwilight" filename="GroundCitySummerTwilight.png" dithering="none"/>
+    <bitmap id="GroundCitySummerNight" filename="GroundCitySummerNight.png" dithering="none"/>
+    <bitmap id="GroundCityFallDay" filename="GroundCityFallDay.png" dithering="none"/>
+    <bitmap id="GroundCityFallTwilight" filename="GroundCityFallTwilight.png" dithering="none"/>
+    <bitmap id="GroundCityFallNight" filename="GroundCityFallNight.png" dithering="none"/>
+    <bitmap id="GroundCityWinterDay" filename="GroundCityWinterDay.png" dithering="none"/>
+    <bitmap id="GroundCityWinterTwilight" filename="GroundCityWinterTwilight.png" dithering="none"/>
+    <bitmap id="GroundCityWinterNight" filename="GroundCityWinterNight.png" dithering="none"/>
+
+    <bitmap id="GroundDesertSpringDay" filename="GroundDesertSpringDay.png" dithering="none"/>
+    <bitmap id="GroundDesertSpringTwilight" filename="GroundDesertSpringTwilight.png" dithering="none"/>
+    <bitmap id="GroundDesertSpringNight" filename="GroundDesertSpringNight.png" dithering="none"/>
+    <bitmap id="GroundDesertSummerDay" filename="GroundDesertSummerDay.png" dithering="none"/>
+    <bitmap id="GroundDesertSummerTwilight" filename="GroundDesertSummerTwilight.png" dithering="none"/>
+    <bitmap id="GroundDesertSummerNight" filename="GroundDesertSummerNight.png" dithering="none"/>
+    <bitmap id="GroundDesertFallDay" filename="GroundDesertFallDay.png" dithering="none"/>
+    <bitmap id="GroundDesertFallTwilight" filename="GroundDesertFallTwilight.png" dithering="none"/>
+    <bitmap id="GroundDesertFallNight" filename="GroundDesertFallNight.png" dithering="none"/>
+    <bitmap id="GroundDesertWinterDay" filename="GroundDesertWinterDay.png" dithering="none"/>
+    <bitmap id="GroundDesertWinterTwilight" filename="GroundDesertWinterTwilight.png" dithering="none"/>
+    <bitmap id="GroundDesertWinterNight" filename="GroundDesertWinterNight.png" dithering="none"/>
+
+    <bitmap id="GroundMountainsSpringDay" filename="GroundMountainsSpringDay.png" dithering="none"/>
+    <bitmap id="GroundMountainsSpringTwilight" filename="GroundMountainsSpringTwilight.png" dithering="none"/>
+    <bitmap id="GroundMountainsSpringNight" filename="GroundMountainsSpringNight.png" dithering="none"/>
+    <bitmap id="GroundMountainsSummerDay" filename="GroundMountainsSummerDay.png" dithering="none"/>
+    <bitmap id="GroundMountainsSummerTwilight" filename="GroundMountainsSummerTwilight.png" dithering="none"/>
+    <bitmap id="GroundMountainsSummerNight" filename="GroundMountainsSummerNight.png" dithering="none"/>
+    <bitmap id="GroundMountainsFallDay" filename="GroundMountainsFallDay.png" dithering="none"/>
+    <bitmap id="GroundMountainsFallTwilight" filename="GroundMountainsFallTwilight.png" dithering="none"/>
+    <bitmap id="GroundMountainsFallNight" filename="GroundMountainsFallNight.png" dithering="none"/>
+    <bitmap id="GroundMountainsWinterDay" filename="GroundMountainsWinterDay.png" dithering="none"/>
+    <bitmap id="GroundMountainsWinterTwilight" filename="GroundMountainsWinterTwilight.png" dithering="none"/>
+    <bitmap id="GroundMountainsWinterNight" filename="GroundMountainsWinterNight.png" dithering="none"/>
+</drawables>
